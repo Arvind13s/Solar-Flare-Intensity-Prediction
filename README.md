@@ -1,1 +1,2 @@
 # Solar-Flare-Intensity-Prediction
+Solar flares are sudden , intense burts of radiation from the Sun's atmosphere.These energetic events can disrupt communications, navigation systems, and power grids on Earth. Predicting the intensity of solar flares is a complesx problem involving plasma physics and magnetic field dynamics. In this project , we propose building a deep learning model that predicts upcoming sloar flare classes(A,B,C,M,X--- in increasing order of intensity) based on Space Weather Observational Data. 
