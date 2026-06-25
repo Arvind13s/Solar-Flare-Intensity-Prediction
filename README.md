@@ -5,4 +5,4 @@ The project aims to identify patterns in space weather events and build predicti
 
 By leveraging data preprocessing, exploratory data analysis, feature engineering, and machine learning techniques, this project demonstrates how AI can be applied to space weather forecasting and contribute to improving early warning systems for space-related disruptions.
 
-## Dataset:{https://www.kaggle.com/datasets/edacelikeloglu/nasa-space-weather-data}
+## Dataset: https://www.kaggle.com/datasets/edacelikeloglu/nasa-space-weather-data
