@@ -4,3 +4,5 @@ Solar Flare Intensity Prediction is a machine learning project that predicts the
 The project aims to identify patterns in space weather events and build predictive models that can estimate solar flare intensity levels. Accurate prediction of solar flares is crucial because these events can significantly impact Earth's technological infrastructure, including satellite communications, GPS navigation systems, radio communications, and power grids.
 
 By leveraging data preprocessing, exploratory data analysis, feature engineering, and machine learning techniques, this project demonstrates how AI can be applied to space weather forecasting and contribute to improving early warning systems for space-related disruptions.
+
+## Dataset:{https://www.kaggle.com/datasets/edacelikeloglu/nasa-space-weather-data}
